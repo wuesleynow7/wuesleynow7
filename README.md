@@ -2,7 +2,15 @@
 
 ###
 
+<p align="left">Desenvolvedor Fullstack TypeScript, apaixonado por arquitetura de software e construção de APIs robustas.</p>
+
+###
+
 <p align="left">🎓 Estudante de Ciência da Computação  <br>💻 Desenvolvedor Fullstack (TypeScript | JavaScript)  <br>🚀 Focado em APIs REST, Node.js, NestJS e React  <br>📚 Sempre estudando estrutura de dados, algoritmos, arquitetura de software e outras tecnologias</p>
+
+###
+
+<p align="left">🎯 Objetivo Profissional: Atuar como Desenvolvedor Backend ou Fullstack, construindo APIs escaláveis e aplicando boas práticas de arquitetura e engenharia de software.</p>
 
 ###
 
@@ -76,7 +84,7 @@
 
 ###
 
-<h2 align="left">Diversão:</h2>
+<h2 align="left">Explorando:</h2>
 
 ###
 
